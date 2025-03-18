@@ -1,32 +1,32 @@
-#Calculator 
+# Calculator 
 
-##The Project
+## The Project
 
 - This project is a calculator application that performs basic mathematical operations. It features a user-friendly interface and supports various mathematical functions in addition to the four basic arithmetic operations.
 
 ##Features
 
--**Basic Arithmetic Operations: Addition, subtraction, multiplication, and division can be performed.
+- **Basic Arithmetic Operations: Addition, subtraction, multiplication, and division can be performed.
 
--**Decimal Numbers: Users can enter decimal numbers directly.
+- **Decimal Numbers: Users can enter decimal numbers directly.
 
--**Advanced Mathematical Operations: Functions like square root and exponentiation are supported.
+- **Advanced Mathematical Operations: Functions like square root and exponentiation are supported.
 
--**Dynamic UI: Buttons are arranged to adapt to screen size.
+- **Dynamic UI: Buttons are arranged to adapt to screen size.
 
--**Last Operation Display: Performed calculations are displayed on an additional screen.
+- **Last Operation Display: Performed calculations are displayed on an additional screen.
 
--**Clear Button: All operations can be reset using the C button.
+- **Clear Button: All operations can be reset using the C button.
 
   ## Usage
 
--**You can perform calculations by selecting numbers and operations.
+- **You can perform calculations by selecting numbers and operations.
 
--**While the calculation is ongoing, you can see the computed expression on the screen.
+- **While the calculation is ongoing, you can see the computed expression on the screen.
 
--**You can reset the calculator by pressing the C button.
+- **You can reset the calculator by pressing the C button.
 
--**In case of invalid input, the system will automatically display an error message.
+- **In case of invalid input, the system will automatically display an error message.
 
 
 
