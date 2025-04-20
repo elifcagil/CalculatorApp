@@ -1,4 +1,5 @@
-# 🧮 Calculator
+# 🧮 CalculatorApp
+
 
 A clean and functional **iOS calculator application** that performs basic and advanced mathematical operations. It features a **user-friendly interface**, **dynamic button layout**, and real-time operation display.
 
