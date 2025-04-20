@@ -1,47 +1,62 @@
-# Calculator 
+# 🧮 Calculator
 
-## The Project
+A clean and functional **iOS calculator application** that performs basic and advanced mathematical operations. It features a **user-friendly interface**, **dynamic button layout**, and real-time operation display.
 
-- This project is a calculator application that performs basic mathematical operations. It features a user-friendly interface and supports various mathematical functions in addition to the four basic arithmetic operations.
+---
 
-##Features
+## 📱 Features
 
-- **Basic Arithmetic Operations: Addition, subtraction, multiplication, and division can be performed.
+- ➕ **Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division  
+- 🔢 **Decimal Support:** Easily perform operations with decimal numbers  
+- 🧠 **Advanced Functions:** Square root, exponentiation, and more  
+- 🧩 **Dynamic UI:** Button layout adjusts to different screen sizes  
+- 🧾 **Real-Time Display:** The ongoing calculation is shown live  
+- 🧼 **Clear Function:** Instantly reset all operations with the **C** button  
+- ⚠️ **Error Handling:** Displays warnings for invalid input  
 
-- **Decimal Numbers: Users can enter decimal numbers directly.
+---
 
-- **Advanced Mathematical Operations: Functions like square root and exponentiation are supported.
+## 🚀 Usage
 
-- **Dynamic UI: Buttons are arranged to adapt to screen size.
+- Select numbers and mathematical operations using the on-screen buttons  
+- The calculator displays the current operation in real-time  
+- Press **C** to reset the calculator anytime  
+- In case of an invalid input, an appropriate error message will be shown
 
-- **Last Operation Display: Performed calculations are displayed on an additional screen.
+---
 
-- **Clear Button: All operations can be reset using the C button.
+## 📸 Screenshots
 
-  ## Usage
+<p align="center">
+  <img src="https://github.com/elifcagil/CalculatorApp/blob/main/Calculator_App/CalculatorApp/calculator_app_1.png" width="300" alt="Calculator Screenshot 1" />
+</p>
 
-- **You can perform calculations by selecting numbers and operations.
+<p align="center">
+  <img src="https://github.com/elifcagil/CalculatorApp/blob/main/Calculator_App/CalculatorApp/calculator_app_2.png" width="300" alt="Calculator Screenshot 2" />
+</p>
 
-- **While the calculation is ongoing, you can see the computed expression on the screen.
+---
 
-- **You can reset the calculator by pressing the C button.
+## 💡 Project Structure
 
-- **In case of invalid input, the system will automatically display an error message.
+- `Calculator_App/CalculatorApp/` — Main application folder  
+- Organized with MVC architecture for clean code separation  
+- Swift + UIKit based implementation
 
+---
 
+## 🛠️ Tech Stack
 
-## These are the screenshots of the final result
-
-
-
-  <p align="center"> <img src="https://github.com/elifcagil/CalculatorApp/blob/main/Calculator_App/CalculatorApp/calculator_app_1.png" width="400"> <p>
- 
- 
- 
-  <p align="center"> <img src="https://github.com/elifcagil/CalculatorApp/blob/main/Calculator_App/CalculatorApp/calculator_app_2.png" width="400"> <p>
-
-
-
+- Swift  
+- UIKit  
+- AutoLayout  
+- Xcode
 
 
 
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for more information.
