@@ -28,10 +28,18 @@ A clean and functional **iOS calculator application** that performs basic and ad
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/elifcagil/CalculatorApp/blob/main/Calculator_App/CalculatorApp/calculator_app_1.png" width="300" alt="Calculator Screenshot 1" style="margin-right: 120px;" />
-  <img src="https://github.com/elifcagil/CalculatorApp/blob/main/Calculator_App/CalculatorApp/calculator_app_2.png" width="300" alt="Calculator Screenshot 2" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/elifcagil/CalculatorApp/blob/main/Calculator_App/CalculatorApp/calculator_app_1.png" width="300" alt="Calculator Screenshot 1" />
+    </td>
+    <td style="width: 120px;"></td>
+    <td>
+      <img src="https://github.com/elifcagil/CalculatorApp/blob/main/Calculator_App/CalculatorApp/calculator_app_2.png" width="300" alt="Calculator Screenshot 2" />
+    </td>
+  </tr>
+</table>
+
 
 
 
